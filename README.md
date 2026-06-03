@@ -2,7 +2,7 @@
 
 # Elements: Interactive Album Installation
 
-![Album Cover](assets/artwork/THE ELEMENTS (ARTWORK).jpg)
+![Album Cover](assets/artwork/THE-ELEMENTS-(ARTWORK).jpg)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Rather than passively listening to a fixed composition, users become active part
 
 ### Final Installation
 
-![Final Build](assets/hardware-photos/Final Paint.jpg)
+![Final Build](assets/hardware-photos/Final-Paint.jpg)
 
 ### Electronics
 

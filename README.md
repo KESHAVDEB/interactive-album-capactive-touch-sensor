@@ -26,7 +26,7 @@ Rather than passively listening to a fixed composition, users become active part
 
 ### Fabrication
 
-![CNC Fabrication](assets/hardware-photos/CNC Cut.jpg)
+![CNC Fabrication](assets/hardware-photos/CNC-Cut.jpg)
 
 ---
 
@@ -72,6 +72,7 @@ Rather than passively listening to a fixed composition, users become active part
 
 ## System Architecture
 
+```text
 User
   ↓
 Capacitive Touch Artwork
@@ -83,6 +84,7 @@ Max/MSP
 Audio Engine
   ↓
 Earth | Water | Fire | Air
+```
 
 For a detailed technical explanation see:
 
@@ -93,6 +95,7 @@ For a detailed technical explanation see:
 
 ## Repository Structure
 
+```text
 interactive-album-capactive-touch-sensor/
 │
 ├── firmware/
@@ -102,6 +105,7 @@ interactive-album-capactive-touch-sensor/
 ├── assets/
 ├── README.md
 └── LICENSE
+```
 
 ### Firmware
 
